@@ -1,0 +1,1 @@
+Portfólio pessoal responsivo desenvolvido em HTML, CSS e JavaScript, com seções de apresentação, skills, projetos e contato. Inclui grid de cards com animações em CSS, previews via iframe e links externos para projetos publicados. Layout moderno, acessível e organizado para destacar experiência em Full Stack (Next.js/Node.js) e projetos reais.
